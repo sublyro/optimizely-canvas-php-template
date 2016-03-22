@@ -1,0 +1,7 @@
+{
+    "name": "optimizely/canvas-php-template",
+    "description": "Get started quickly with Canvas and PHP",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
