@@ -8,7 +8,7 @@
       },
       "extra":{
         "installer-paths":{
-          "./test": ["optimizely/canvas-php-template/*.php"]
+          "./test": ["optimizely/canvas-php-template"]
         }
       }
 }
