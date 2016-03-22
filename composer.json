@@ -1,13 +1,4 @@
 {
     "name": "optimizely/canvas-php-template",
-    "description": "Get started quickly with Canvas and PHP",
-    "type": "cakephp-plugin",
-    "require" : {
-	"composer/installers": "~1.0"
-    },
-    "extra": {
-	    "installer-paths": {
-	            "sites/example.com/modules/{$name}": ["vendor/package"]
-	    }
-    }
+    "description": "Get started quickly with Canvas and PHP"
 }
