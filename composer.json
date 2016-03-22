@@ -10,4 +10,5 @@
         "installer-paths":{
           "./test": ["optimizely/canvas-php-template/*.php"]
         }
+      }
 }
