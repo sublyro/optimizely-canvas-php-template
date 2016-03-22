@@ -1,7 +1,6 @@
 {
     "name": "optimizely/canvas-php-template",
     "description": "Get started quickly with Canvas and PHP",
-    "type": "wordpress-theme",
 	"require" : {
 		"composer/installers": "~1.0"
 	},
