@@ -1,4 +1,9 @@
 {
     "name": "optimizely/canvas-php-template",
-    "description": "Get started quickly with Canvas and PHP"
+    "description": "Get started quickly with Canvas and PHP",
+    "require":{
+        "php": ">=5.3",
+        "mnsami/composer-custom-directory-installer": "1.1.*",
+        "monolog/monolog": "*"
+      }
 }
