@@ -1,4 +1,10 @@
 {
     "name": "optimizely/canvas-php-template",
-    "description": "Get started quickly with Canvas and PHP"
+    "description": "Get started quickly with Canvas and PHP",
+        "scripts": {
+    	"post-package-install": [
+            "chmod 777 vendor/optimizely/canvas-php-template/install.sh",
+            "vendor/optimizely/canvas-php-template/install.sh"
+        ]
+    }
 }
